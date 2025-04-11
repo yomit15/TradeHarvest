@@ -6,14 +6,14 @@
 
 ## 📸 Screenshots
 
-### 🔹 Dashboard
-![Dashboard](./public/images/screenshots/dashboard.png)
+### 🔹 Home Page
+![Dashboard](.public/images/screenshots/HomePage.png)
 
-### 🔹 Price Prediction Graph
-![Price Prediction](./public/images/screenshots/price-prediction.png)
+### 🔹 Trending Agri News
+![Price Prediction](./public/images/screenshots/NewsSection.png)
 
-### 🔹 Listing Page
-![Listing](./public/images/screenshots/listing-form.png)
+### 🔹 Other Screenshots
+![Other Screenshots](./public/images/screenshots)
 
 ---
 
